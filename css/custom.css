@@ -1,0 +1,10 @@
+.clickable-card {
+    cursor: pointer;
+  }
+.feature-icon-small {
+  width: 3rem;
+  height: 3rem;
+  }
+img.svg-icon {
+  filter: invert(100%);
+  }
